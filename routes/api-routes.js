@@ -16,7 +16,7 @@ module.exports = function(app) {
     res.json(loginUser);
   });
 
-  // Route for user signup
+  // Route for user sign-up
   app.post("/api/signup", (req, res) => {
     db.User.create({
       name: req.body.name,
