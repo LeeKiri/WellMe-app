@@ -68,6 +68,17 @@ So that I can reach my fitness and wellbeing goals faster.
 * Jest
 * Postman
 
+## My Contributions
+* Project Manager                                
+* Wire Frames, concept and design
+* Mobile Responsiveness
+* API routes and HTML routes
+* Front end Javascript for the Members Page
+* REST API: Members Page API endpoints ie daily log and user database updates.
+* Handlebars templates and partials- associated HTML and CSS
+* Deploying to Heroku with JAWSDB
+* ENV variable
+
 ## License 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -83,11 +94,9 @@ So that I can reach my fitness and wellbeing goals faster.
 
 ## Links
 ### Github Repository
-https://github.com/blakestickland/project2
-
+https://github.com/LeeKiri/WellMe-app
 ### URL
-https://lkblt-project2.herokuapp.com/
-
+https://wellme-leekiri.herokuapp.com/
 ### Screenshot
 
 Sign-up Page
